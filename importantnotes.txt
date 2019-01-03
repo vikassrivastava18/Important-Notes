@@ -1,0 +1,19 @@
+		GIT
+1a) git commit -a -m "Change titles and styling on homepage"
+1b1) git add -A
+1b2) git commit -m "message"
+1b3) git push
+
+		Virtual Environment
+
+1)	virtualenv env
+2)	env\Scripts\activate
+
+
+		Embedding Pdf
+<object data="../pdf/sample-3pp.pdf#page=2" type="application/pdf" width="100%" height="100%">
+<iframe src="../pdf/sample-3pp.pdf#page=2" width="100%" height="100%" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: 
+<a href="../pdf/sample-3pp.pdf">Download PDF</a>
+</iframe>
+</object>
