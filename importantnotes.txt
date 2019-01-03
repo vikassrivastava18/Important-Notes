@@ -17,3 +17,11 @@ This browser does not support PDFs. Please download the PDF to view it:
 <a href="../pdf/sample-3pp.pdf">Download PDF</a>
 </iframe>
 </object>
+
+
+		Heroku 
+Project1 DATABASE_URL:		
+postgres://ovhlnkwplidpzn:8f154e58c94c0e9d190f6cff6ad71522669f198ac5fbeb6cba27d8797ce520da@ec2-54-227-237-27.compute-1.amazonaws.com:5432/da33r7mjbbhus8
+
+		gravatar
+my image-url:  https://s.gravatar.com/avatar/d3eb552d56dae53c2d665faa6b657d0a?s=80
